@@ -7,7 +7,7 @@ Blockchain Engineer and Technical Writer
 I love to code.
 
 * 🌍  I'm based in Accra, Ghana
-* 🖥️  See my portfolio at [My Website](http://https://depauli.hashnode.dev/)
+* 🖥️  See my portfolio at [My Website](http://depauli.hashnode.dev/)
 * ✉️  You can contact me at [blesahuks0020@gmail.com](mailto:blesahuks0020@gmail.com)
 * 🧠  I'm learning Applied Cryptography and Trust
 * 🤝  I'm open to collaborating on Blockchain and Web3 related projects
