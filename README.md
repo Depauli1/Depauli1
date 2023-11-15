@@ -42,3 +42,7 @@ src="https://img.shields.io/twitter/follow/NewPauli1?logo=twitter&style=for-the-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Depauli1/Fund-Me-Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Depauli1&repo=Fund-Me-Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Depauli1/Advanced-Smart-Contract-Lottery-Project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Depauli1&repo=Advanced-Smart-Contract-Lottery-Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/Depauli1/APIs-Endpoints-PROJECT" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Depauli1&repo=APIs-Endpoints-PROJECT&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
