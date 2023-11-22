@@ -9,6 +9,7 @@ I love to code.
 * 🌍  I'm based in Accra, Ghana
 * 🖥️  See my portfolio at [My Website](http://depauli.hashnode.dev/)
 * ✉️  You can contact me at [blesahuks0020@gmail.com](mailto:blesahuks0020@gmail.com)
+* 🚀  I'm currently working on [Modulo-Machine](http://github.com/Depauli1/Modulo-Machine)
 * 🧠  I'm learning Applied Cryptography and Trust
 * 🤝  I'm open to collaborating on Blockchain and Web3 related projects
 
@@ -45,4 +46,4 @@ src="https://img.shields.io/twitter/follow/NewPauli1?logo=twitter&style=for-the-
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/Depauli1/APIs-Endpoints-PROJECT" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Depauli1&repo=APIs-Endpoints-PROJECT&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/Depauli1/APIs-Endpoints-PROJECT" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Depauli1&repo=APIs-Endpoints-PROJECT&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Depauli1/Modulo-Machine" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Depauli1&repo=Modulo-Machine&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
